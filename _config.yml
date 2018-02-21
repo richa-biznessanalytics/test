@@ -1,0 +1,11 @@
+# basic options
+title: Bizness Analytics 
+author: R Richa
+email: rashmi.richa@biznessanalytics.com
+description: A wonderful site
+twitter_username: BiznessAnalytics
+github_username: richa-biznessanalytics  
+
+# Build settings
+markdown: kramdown
+theme: minima
